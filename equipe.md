@@ -1,3 +1,4 @@
-# Equipe do projeto
-Membro:
-- Intrutor
+# Equipe do Projeto
+Participantes:
+-Instrutor
+-Bruno
